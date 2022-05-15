@@ -1,7 +1,7 @@
 # JDBC-SQLite-MuleSoft-Task-
 
 
-Tech used: used JDBC and SQLite
+Tech used: JDBC and SQLite
            
 
 -Made connection to SQLite database using JDBC.\
