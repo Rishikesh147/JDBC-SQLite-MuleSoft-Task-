@@ -9,4 +9,4 @@ Tech used: JDBC and SQLite
 -Inserted data into the table with the use of JDBC.\
 -Queried movie details with constraints as well as without constraints.\
 
-# Find source code of each functions in folder -/src/net/
+Find source code of each functions in folder: /src/net/
